@@ -1,0 +1,2 @@
+# Gister
+A blogging application
